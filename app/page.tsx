@@ -350,6 +350,16 @@ export default function Portfolio() {
           <SectionHeading title="Featured Projects" subtitle="Some of my recent work" />
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
+
+          <ProjectCard 
+          title="SwiftCards – Knowledge on Autopilot"
+          description="AI that transforms your notes into smart flashcards instantly. "
+          tags={["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "Gemini", "Netlify"]}
+          image="/images/projects/swiftcards.png"
+          demoUrl="https://swiftcardss.netlify.app/"
+          repoUrl="https://github.com/jameslewis-git/SWIFTCARDS-Knowledge-on-Autopilot.git"
+            /> 
+
             <ProjectCard
               title="EduInsight - Your Gateway to Free Engineering Courses"
               description="A full-stack course aggregation platform built with Next.js, Supabase, and TypeScript."
