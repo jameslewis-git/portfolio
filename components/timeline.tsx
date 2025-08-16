@@ -12,11 +12,18 @@ const experiences = [
       "Currently pursuing Bachelor's in AI & Data Science. Active in tech clubs, building projects, and learning new technologies.",
   },
   {
-    title: "Technical Team Member - NSDC",
-    company: "NSDC - National Student Data Corps ",
-    period: "2023 - Present",
+    title: "Co-Chairperson - NSDC",
+    company: "VCET NSDC (National Student Data Corps)",
+    period: "2025 - Present",
     description:
-      "Responsible for building and maintaining the events for the organization. Also, responsible for the technical side of the events.",
+      "Leading the NSDC chapter at VCET by overseeing strategic initiatives, managing teams, and coordinating with faculty and external partners. Responsible for mentoring the technical team, planning and executing events, and driving data science awareness and innovation across the student community."
+  },
+  {
+    title: "Technical Team Member - NSDC",
+    company: "VCET NSDC (National Student Data Corps)",
+    period: "2023 - 2025",
+    description:
+      "Contributed to the technical foundation of NSDC events by developing, managing, and maintaining event platforms and tools. Supported the execution of technical aspects of workshops, hackathons, and student engagement initiatives."
   },
   {
     title: "Technical Team Member - PAT",
