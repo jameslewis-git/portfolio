@@ -123,7 +123,7 @@ export default function Portfolio() {
 
                 <Tooltip>
                   <TooltipTrigger asChild>
-                    <Link href="mailto:jamesslewiss95@gmail.com">
+                    <Link href="mailto:jameslewis.build@gmail.com">
                       <Button
                         variant="ghost"
                         size="icon"
@@ -280,7 +280,7 @@ export default function Portfolio() {
                   </div>
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Email</div>
-                    <div className="font-medium">jamesslewiss95@gmail.com</div>
+                    <div className="font-medium">jameslewis.build@gmail.com</div>
                   </div>
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Location</div>
