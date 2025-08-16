@@ -606,7 +606,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <div className="text-sm text-zinc-500">Email</div>
-                    <div className="font-medium">jamesslewiss95@gmail.com</div>
+                    <div className="font-medium">jameslewis.build@gmail.com</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -698,7 +698,7 @@ export default function Portfolio() {
                 <span className="sr-only">LinkedIn</span>
               </Button>
             </Link>
-            <Link href="mailto:jamesslewiss95@gmail.com">
+            <Link href="mailto:jameslewis.build@gmail.com">
               <Button
                 variant="ghost"
                 size="icon"
