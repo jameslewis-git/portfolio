@@ -245,7 +245,7 @@ export default function Portfolio() {
                   src="/images/profile1.png"
                   alt="James Lewis"
                   width={800}
-                  height={800}
+                  height={1000}
                   quality={100}
                   priority
                   className="w-full h-full object-cover hover:scale-110 transition-transform duration-500"
