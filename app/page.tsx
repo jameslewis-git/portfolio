@@ -242,7 +242,7 @@ export default function Portfolio() {
               <div className="relative aspect-square rounded-xl overflow-hidden border border-zinc-800">
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent z-10"></div>
                 <Image
-                  src="/images/profile1.png"
+                  src="/images/profile2.png"
                   alt="James Lewis"
                   width={800}
                   height={800}
