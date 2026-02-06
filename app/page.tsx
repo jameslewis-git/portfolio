@@ -50,7 +50,7 @@ export default function Portfolio() {
           <div className="space-y-6">
             <div className="inline-block">
               <div className="relative px-3 py-1 text-sm font-medium rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-4">
-                <span className="relative z-10">Software Engineer | Full Stack Web Developer</span>
+                <span className="relative z-10">Software & Cloud Engineer | Scalable Systems & Web Engineering</span>
                 <span className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-500/20 to-pink-500/20 animate-pulse"></span>
               </div>
             </div>
@@ -61,8 +61,7 @@ export default function Portfolio() {
               </span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-[600px]">
-              AI & Data Science Trailblazer | Full-Stack Innovator Building Smart UIs & Bold Solutions | Coding the
-              Future with Passion
+              AI & Data Science Trailblazer | Innovator Building Scalable Systems & Smart UIs | Engineering the Future with Impact
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
               <Button 
